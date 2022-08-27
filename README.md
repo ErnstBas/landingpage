@@ -1,6 +1,9 @@
 # landingpage
 Landing page with a search bar (Duckduckgo) and background using an array of images fetched with the Rijksstudio API.
 
+![image](https://user-images.githubusercontent.com/50556177/187043298-81115373-4a8d-48fe-8b06-ee93a311146e.png)
+
+
 
 Sources: 
 
